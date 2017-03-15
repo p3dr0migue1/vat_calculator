@@ -38,4 +38,6 @@ Total VAT paid on Bread in UK was £1.56
 
 To run the tests run:
 
-`$ python -m unittest discover -s tests`
+```
+$ python -m unittest discover -s tests
+```
