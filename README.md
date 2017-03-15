@@ -1,15 +1,15 @@
-##VAT Calculator
+## VAT Calculator
 
 A simple VAT calculator using the command line interface.
 
 
 
-###Installation
+### Installation
 
 To install this package create a virtualenv and run from the root directory:
 `$ pip install -e .`
 
-###Usage
+### Usage
 
 ```
 python main.py --help
@@ -34,7 +34,7 @@ $ python main.py -p='Bread' -pr=12.50 -c='UK'
 Total VAT paid on Bread in UK was £1.56
 ```
 
-###Run Tests
+### Run Tests
 
 To run the tests run:
 
